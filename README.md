@@ -25,7 +25,7 @@ Upload the sketch to the Uno R4 WiFi. Connect A2 and A3 to the same row in a bre
 
 Connect A1 to GND. You should see that the voltage on A2/A3 in regards to GND is now also GND.
 
-Connect A2 to 3.3V. You should see that the voltage on A2/A3 in regards to GND is now also 3.3V.
+Connect A1 to 3.3V. You should see that the voltage on A2/A3 in regards to GND is now also 3.3V.
 
 ## References
 
