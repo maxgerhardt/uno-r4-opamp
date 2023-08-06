@@ -24,10 +24,15 @@ Pinout on Uno R4 WiFi:
 Upload the sketch to the Uno R4 WiFi. Connect A2 and A3 to the same row in a breadboard (connected together).
 
 Connect A1 to GND. You should see that the voltage on A2/A3 in regards to GND is now also GND.
+
 Connect A2 to 3.3V. You should see that the voltage on A2/A3 in regards to GND is now also 3.3V.
 
 ## References
 
 See schematics at https://docs.arduino.cc/hardware/uno-r4-wifi
+
+See documentation https://renesas.github.io/fsp/group___o_p_a_m_p.html
+
 Search "Renesas RA4M1 Group User’s Manual: Hardware"
+
 Search "Renesas RA4M1 Group Datasheet"
