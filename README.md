@@ -1,5 +1,7 @@
 # Arduino Uno R4 OPAMP Example
 
+# Note: A PR is open at https://github.com/arduino/ArduinoCore-renesas/pull/97
+
 ## Description
 
 The Uno R4 WiFi features an internal OMAMP in its Renesas RA4M1 series microcontroller.
